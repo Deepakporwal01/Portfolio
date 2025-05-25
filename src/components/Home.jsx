@@ -11,6 +11,7 @@ const Home = () => (
     whileInView="show"
     viewport={{ once: false, amount: 0.25 }}
   >
+    
     <div className={style.container}>
       <p className={style.intro}>
         Hi, I&apos;m
