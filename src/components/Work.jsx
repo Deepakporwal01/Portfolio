@@ -25,9 +25,10 @@ const Work = () => {
       <motion.h1 variants={textVariant()} className={style.title}>
         My Recent Works
       </motion.h1>
-      <div className={style.project_container}>
+      <div  className=' flex flex-row flex-wrap gap-10 justify-center items-center  ' >
         {/* Projects Card */}
         {projects.map((project, index) => (
+         console.log(project),
           <motion.div
             key={project.id}
             variants={fadeIn('up', '', index * 0.4, 0.5)}

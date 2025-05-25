@@ -51,13 +51,13 @@ const About = () => (
         </a>
         {' '}
       
-        in just one year.  
+          
       </motion.p>
       <motion.p variants={fadeIn('', '', 1.25, 1)} className={style.text}>
         Ready to bring your project to life? Reach out—I&apos;m excited to collaborate!
         {' '}
         <a
-          href=" "
+          href="/DeepakPorwalsResume.pdf"
           target=" "
           className={style.link}
           rel="noreferrer"

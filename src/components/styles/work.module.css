@@ -22,12 +22,16 @@
 
 .project_container {
   display: grid;
-  grid-template-columns: auto;
-  grid-gap: 1px;
+  grid-template-columns :1fr;
+  flex-wrap: wrap;
+  grid-gap: 20px;
   padding: 0 10px;
 }
 
 .card {
+  
+  height:25rem;
+  width:25rem ;
   aspect-ratio: 4 / 3;
   position: relative;
   overflow: hidden;
