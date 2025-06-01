@@ -198,11 +198,11 @@ const projects = [
 const testimonials = [
   {
     id: 1,
-    name: 'Ahmed Hasan Rony',
-    image: 'https://avatars.githubusercontent.com/u/77187003?v=4',
+    name: 'John Doe',
+    image: ' ',
     text: 'I really am comfortable with collaborating and coding with Barry. His ingenious ideas give me a lot of ideas solving a problem multiple ways.',
-    country: 'India',
-    linkedIn: 'https://www.linkedin.com/in/ahroniy/',
+    country: 'Germany',
+    linkedIn: ' ',
   },
   {
     id: 2,
@@ -210,15 +210,15 @@ const testimonials = [
     image: 'https://media.licdn.com/dms/image/D4D35AQHOKsZ2nSaTjg/profile-framedphoto-shrink_400_400/0/1665541124692?e=1721469600&v=beta&t=Evk76YZRsti88Lyr1khjrlxcZKF8v2hrbA3G7YLhIz4',
     text: "Throughout our collaboration, I was consistently impressed by Barry's professionalism, attention to detail, and ability to adapt to changing requirements.",
     country: 'United Arab Emirates',
-    linkedIn: 'https://www.linkedin.com/in/racheleno/',
+    linkedIn: ' ',
   },
   {
     id: 3,
-    name: 'Muhammad Talha Hanif',
+    name: 'Pratyush Khadayte',
     image: 'https://media.licdn.com/dms/image/D4D03AQF6A-cET7akGQ/profile-displayphoto-shrink_400_400/0/1687861230806?e=1726099200&v=beta&t=C1jrASsQ8AXgmkVrndSBMyBfh7eTBQ_pe2VG79FSNN0',
     text: 'He possesses a deep understanding of the latest technologies and trends in his field, allowing him to tackle complex challenges with ease.',
-    country: 'Pakistan',
-    linkedIn: 'https://www.linkedin.com/in/muhammad-talha-hanif/',
+    country: 'India',
+    linkedIn: ' /',
   },
   {
     id: 4,
@@ -234,15 +234,15 @@ const testimonials = [
     image: 'https://media.licdn.com/dms/image/D5603AQE1qYMUswBOAw/profile-displayphoto-shrink_400_400/0/1688151359384?e=1726099200&v=beta&t=rkHvuiSC9ww8BOxUhz2cqpIdzAoW6ZUEWbJDQW5W5OU',
     text: 'Communication was another strength that Barry brought to the table. He actively listened, communicated ideas clearly, and collaborated effectively with team members.',
     country: 'Rwanda',
-    linkedIn: 'https://www.linkedin.com/in/innocent-n/',
+    linkedIn: ' ',
   },
   {
     id: 6,
-    name: 'Marko Kermichiev',
-    image: 'https://avatars.githubusercontent.com/u/112749658?v=4',
+    name: 'Piyush Tank',
+    image: ' ',
     text: 'I learned too much from you and I can say that you are fantastic developer. Working with you is always a pleasure, hope that we can work on some project asap.',
-    country: 'Macedonia',
-    linkedIn: 'https://www.linkedin.com/in/marko-kermichiev/',
+    country: 'India',
+    linkedIn: ' ',
   },
 ];
 

@@ -4,6 +4,7 @@ import { useTheme } from '../ThemeContext';
 import { fadeIn, staggerContainer } from '../utils/motion';
 import { logo, light, dark } from '../assets';
 import dlogo from "../assets/logo/dlogo.webp"
+import profilelogo from "../assets/logo/profilelogo.jpg"
 import { navLinks } from '../constants';
 import style from './styles/navbar.module.css';
 
@@ -45,7 +46,7 @@ const Navbar = () => {
           whileHover={{ scale: 1.12, backgroundColor: 'var(--dark-blue)', transition: { type: 'spring', damping: 20, stiffness: 300 } }}
           className={style.logo_btn}
         >
-          <img src={dlogo}  alt="My logo" className={`style.logo` } loading="lazy" />
+          <img src={profilelogo}  alt="My logo" className=" scale-150 " loading="lazy" />
         </motion.button>
 
         {/* desktop navlink */}
